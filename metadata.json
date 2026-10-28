@@ -1,0 +1,6 @@
+{
+  "name": "MODTHAI แปลเองเล่นเอง By Loli is My Life",
+  "description": "เว็บแจกมอดแปลเกมภาษาไทย สไตล์มินิมอล ฟ้า/ขาว แปลเองเล่นเอง โดย Loli is My Life ดาวน์โหลดฟรีพร้อมระบบโดเนทสนับสนุน",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
